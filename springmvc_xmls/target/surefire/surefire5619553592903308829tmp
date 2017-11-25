@@ -1,0 +1,6 @@
+#surefire
+#Sat Nov 25 17:40:10 IST 2017
+user.dir=E\:\\springProject\\springmvc_xmls
+maven.tomcat.port=8181
+localRepository=C\:\\Users\\Malvia\\.m2\\repository
+basedir=E\:\\springProject\\springmvc_xmls
